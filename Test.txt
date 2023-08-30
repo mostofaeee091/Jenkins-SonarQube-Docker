@@ -1,1 +1,1 @@
-This is new automated pipeline with jenkins
+Test server
