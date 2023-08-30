@@ -1,1 +1,1 @@
-This is a Test file for github to jenkins pipleline
+This is new automated pipeline with jenkins
